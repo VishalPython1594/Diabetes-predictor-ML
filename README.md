@@ -50,9 +50,19 @@ The target variable is:
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
+```bash
    git clone https://github.com/VishalPython1594/Diabetes-predictor-ML.git
    cd diabetes-prediction-ml
+```
+
+2. **Install dependencies**:
+```bash
+pip install -r requirements.txt
+ ```
+3. **Run the model**:
+```bash
+python diabetes_prediction.py
+```
 
 ![diabetes_pred_1](https://github.com/user-attachments/assets/ec821142-49d1-4056-a953-c303a7f47ec7)
 ![diabetes_pred_2](https://github.com/user-attachments/assets/fe3f5532-92a9-41b8-87a2-455c913972b9)
@@ -60,5 +70,13 @@ To run this project locally, follow these steps:
 ![diabetes_pred_4](https://github.com/user-attachments/assets/89709f9f-b778-46de-94ac-29bcab0b4369)
 ![diabetes_pred_5](https://github.com/user-attachments/assets/ccb1ac64-ff3b-49d8-951a-2f717893373c)
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request if you have improvements or new features.
 
+## 📜 License
+This project is licensed under the MIT License.
+
+## 📩 Contact & Support
+📧 Email: vishal1594@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/vishal-shivnani-87487110a/
 
