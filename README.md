@@ -61,7 +61,7 @@ pip install -r requirements.txt
  ```
 3. **Run the model**:
 ```bash
-python diabetes_prediction.py
+python medical_classification.py
 ```
 
 ![diabetes_pred_1](https://github.com/user-attachments/assets/ec821142-49d1-4056-a953-c303a7f47ec7)
